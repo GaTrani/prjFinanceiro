@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a40df098-52af-4979-a84e-84105ade1267" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GerenciadorFinanceiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GerenciadorFinanceiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xyz/financeiro/view/ContaView.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xyz/financeiro/view/ContaView.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prjFinanceiro/com/xyz/financeiro/view/ContaView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prjFinanceiro/com/xyz/financeiro/view/ContaView.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xyz/financeiro/view/ContaView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xyz/financeiro/view/ContaView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663111235279</updated>
       <workItem from="1663111236922" duration="2746000" />
-      <workItem from="1663116746973" duration="1908000" />
+      <workItem from="1663116746973" duration="2168000" />
     </task>
     <servers />
   </component>

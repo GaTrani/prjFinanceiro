@@ -30,6 +30,7 @@ public class ContaView {
                 conta = new Conta(numConta, nome, 0.0);
                 JOptionPane.showMessageDialog(null, "Conta cadastrada com sucesso.",
                         "SUCESSO", JOptionPane.INFORMATION_MESSAGE);
+                labelSaldo.setText(Double.toString(conta.getSaldo()));
 
             }
         });
